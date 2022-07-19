@@ -82,9 +82,9 @@ public class Board {
 			this.ship = s;
 		}
 
-		void detachShip() {
-			this.ship = null;
-		}
+		// void detachShip() { // gonna try and not need this
+		// 	this.ship = null;
+		// }
 
 		/**
 		 * Hits this slot on the board
