@@ -1,6 +1,6 @@
-package test.java.battleship;
+package test.battleship;
 
-import main.java.battleship.*;
+import main.battleship.*;
 
 public class GameTest {
 

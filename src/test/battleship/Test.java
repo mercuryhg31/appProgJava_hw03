@@ -1,4 +1,4 @@
-package test.java.battleship;
+package test.battleship;
 
 public interface Test {
 	public void test();

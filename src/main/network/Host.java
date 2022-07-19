@@ -1,6 +1,6 @@
-package main.java.network;
+package main.network;
 
-import main.java.battleship.Game;
+import main.battleship.Game;
 
 public class Host {
 	

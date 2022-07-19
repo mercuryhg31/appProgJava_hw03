@@ -1,4 +1,4 @@
-package main.java.battleship;
+package main.battleship;
 
 public class Player {
 
